@@ -17,7 +17,7 @@ class Model:
         
     def dyn_forward(self,x,u):
         pass # TODO
-    
+
     def dyn_f(self,x,u):
         print("Dynamics not implemented")
         pass 
